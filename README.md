@@ -1,1 +1,1 @@
-# Linear-logistic-ML-model-deployement
+logistic-ML-model-deployement
